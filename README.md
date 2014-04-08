@@ -40,6 +40,12 @@ Start the node server using the following command:
 $ node app.js
 ```
 
+##### Step 6:
+Open the browser and navigate to:
+```
+localhost:3000
+```
+
 
 ### Executing Tests
 ##### Karma Tests

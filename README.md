@@ -66,6 +66,10 @@ $ npm install -g protractor
 $ protractor e2eConf.js
 ```
 
+### Roadmap
+* Authentication support via passport.js
+
+
 ### Credits
 1. Built on top of [angular-express-seed](https://github.com/btford/angular-express-seed) from btford.
 
@@ -73,4 +77,4 @@ $ protractor e2eConf.js
 MIT
 
 ### Issues
-Please report an issue if you need any help or find a bug.
+Please report an issue if you need any help, would like to add a feature or find a bug.

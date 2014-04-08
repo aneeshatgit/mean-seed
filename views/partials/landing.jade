@@ -1,0 +1,12 @@
+h1 Landing page of MEAN seed
+small The below control is used to add a list of employee names and store it to the mongo database.
+br
+br
+label Employee name:
+input.space-out(type='text', ng-model="eName", id="nameInput")
+button.btn.btn-primary(ng-click='addName()', id="addName") Save 
+br
+br
+h2 Employees registered in the system:
+ul
+	li(ng-repeat="name in names") {{name.sampleName}}

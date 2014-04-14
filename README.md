@@ -16,7 +16,7 @@ The ideas in this project are not new. It is infact a collection of best practic
 Clone the repository locally by using the command:
 
 ```
-$ git clone https://github.com/aneeshatgit/mean-seed.git
+$ git clone https://github.com/aneeshatgit/mean-seed.git mean
 ```
 ##### Step 2:
 Run npm command on the folder (ensure that npm / node.js is installed in your pc):
